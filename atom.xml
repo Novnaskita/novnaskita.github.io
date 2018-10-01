@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>小亮的博客</title>
+  
+  <subtitle>I&#39;m doing all can,to be a better man.</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://blog.novnaskita.top/"/>
+  <updated>2018-05-03T06:35:32.000Z</updated>
+  <id>http://blog.novnaskita.top/</id>
+  
+  <author>
+    <name>Novnaskita</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo常用命令笔记</title>
+    <link href="http://blog.novnaskita.top/2018/09/14/hexo%E5%B8%B8%E7%94%A8%E5%91%BD%E5%90%8D%E7%AC%94%E8%AE%B0/"/>
+    <id>http://blog.novnaskita.top/2018/09/14/hexo常用命名笔记/</id>
+    <published>2018-09-14T04:41:47.276Z</published>
+    <updated>2018-05-03T06:35:32.000Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="hexo"><a href="#hexo" class="headerlink" title="hexo"></a>hexo</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">$ npm install hexo -g <span class="comment">#安装</span></span><br><span class="line">$ npm update hexo -g <span class="comment">#升级</span></span><br><span class="line">$ hexo init <span class="comment">#初始化</span></span><br></pre></td></tr></table></figure><h3 id="写作"><a href="#写作" class="headerlink" title="写作"></a>写作</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">$ hexo n <span class="string">"我的博客"</span> == hexo new <span class="string">"我的博客"</span> <span class="comment">#新建文章</span></span><br><span class="line">$ hexo p == hexo publish</span><br><span class="line">$ hexo g == hexo generate<span class="comment">#生成</span></span><br><span class="line">$ hexo s == hexo server <span class="comment">#启动服务预览</span></span><br><span class="line">$ hexo d == hexo deploy<span class="comment">#部署</span></span><br></pre></td></tr></table></figure><h3 id="服务器"><a href="#服务器" class="headerlink" title="服务器"></a>服务器</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server <span class="comment">#Hexo 会监视文件变动并自动更新，您无须重启服务器。</span></span><br><span class="line">$ hexo server -s <span class="comment">#静态模式</span></span><br><span class="line">$ hexo server -p 5000 <span class="comment">#更改端口</span></span><br><span class="line">$ hexo server -i 192.168.1.1 <span class="comment">#自定义 IP</span></span><br><span class="line">$ hexo clean <span class="comment">#清除缓存 网页正常情况下可以忽略此条命令</span></span><br><span class="line">$ hexo g <span class="comment">#生成静态网页</span></span><br><span class="line">$ hexo d <span class="comment">#开始部署</span></span><br></pre></td></tr></table></figure><h3 id="官方文档地址：hexo-io"><a href="#官方文档地址：hexo-io" class="headerlink" title="官方文档地址：hexo.io"></a>官方文档地址：hexo.io</h3><p>Info: <a href="https://hexo.io/" target="_blank" rel="noopener">hexo</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h3 id=&quot;hexo&quot;&gt;&lt;a href=&quot;#hexo&quot; class=&quot;headerlink&quot; title=&quot;hexo&quot;&gt;&lt;/a&gt;hexo&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>测试</title>
+    <link href="http://blog.novnaskita.top/2018/05/03/%E6%B5%8B%E8%AF%95/"/>
+    <id>http://blog.novnaskita.top/2018/05/03/测试/</id>
+    <published>2018-05-03T06:05:26.000Z</published>
+    <updated>2018-05-03T06:34:54.000Z</updated>
+    
+    <content type="html"><![CDATA[<h4 id="这是一个测试"><a href="#这是一个测试" class="headerlink" title="这是一个测试"></a>这是一个测试</h4>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h4 id=&quot;这是一个测试&quot;&gt;&lt;a href=&quot;#这是一个测试&quot; class=&quot;headerlink&quot; title=&quot;这是一个测试&quot;&gt;&lt;/a&gt;这是一个测试&lt;/h4&gt;
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
