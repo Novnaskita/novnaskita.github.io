@@ -37,15 +37,6 @@
     </entry>
     
     <entry>
-      <title>关于</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[<p>这是我的个人博客<br>目前主要用于学习网站搭建知识，之后可能会成为个人的分享网站<br>欢迎关注</p>]]></content>
-      
-    </entry>
-    
-    <entry>
       <title>archives</title>
       <link href="/archives/index.html"/>
       <url>/archives/index.html</url>
@@ -55,11 +46,11 @@
     </entry>
     
     <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>关于</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>这是我的个人博客<br>目前主要用于学习网站搭建知识，之后可能会成为个人的分享网站<br>欢迎关注</p>]]></content>
       
     </entry>
     
@@ -67,6 +58,15 @@
       <title>分类</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    <entry>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
