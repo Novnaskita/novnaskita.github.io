@@ -28,20 +28,20 @@
   
     
     <entry>
-      <title>我的邮箱</title>
-      <link href="/1975181106@qq.com/index.html"/>
-      <url>/1975181106@qq.com/index.html</url>
-      
-        <content type="html"><![CDATA[<p>邮箱地址：<a href="mailto:1975181106@qq.com" target="_blank" rel="noopener">1975181106@qq.com</a></p><p>欢迎邮我</p><p>谢谢访问</p><p>end</p>]]></content>
-      
-    </entry>
-    
-    <entry>
       <title>archives</title>
       <link href="/archives/index.html"/>
       <url>/archives/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    <entry>
+      <title>我的邮箱</title>
+      <link href="/1975181106@qq.com/index.html"/>
+      <url>/1975181106@qq.com/index.html</url>
+      
+        <content type="html"><![CDATA[<p>邮箱地址：<a href="mailto:1975181106@qq.com" target="_blank" rel="noopener">1975181106@qq.com</a></p><p>欢迎邮我</p><p>谢谢访问</p><p>end</p>]]></content>
       
     </entry>
     
